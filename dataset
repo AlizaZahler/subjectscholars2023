@@ -67,8 +67,8 @@
 24,9,2,2,Yes,Yes,$5-$20
 24,3,2,2,A little bit,Yes,$76-$99
 24,6,2,2,Maybe,Yes,$51-$75
-I prefer not to say,10,Sometimes,1,A little bit,Yes,$76-$99
-I prefer not to say,10,Sometimes,2,A little bit,Yes,$100+
+0,10,Sometimes,1,A little bit,Yes,$76-$99
+0,10,Sometimes,2,A little bit,Yes,$100+
 24,0,2,2,Yes,Yes,$51-$75
 24,0,2,2,A little bit,Maybe,$21-$30
 24,3,2,1,A little bit,Yes,$21-$30
@@ -165,7 +165,7 @@ I prefer not to say,10,Sometimes,2,A little bit,Yes,$100+
 15,6,2,2,No,Yes,$31-$50
 45,10,2,1,No,Yes,$31-$50
 15,3,2,2,Maybe,Yes,$31-$50
-I prefer not to say,9,2,2,Yes,Yes,$0
+0,9,2,2,Yes,Yes,$0
 15,3,1,1,A little bit,Yes,$21-$30
 35,6,2,Never,Yes,Yes,$76-$99
 15,6,3-5 times a week,2,A little bit,Yes,$51-$75
@@ -304,3 +304,4 @@ I prefer not to say,9,2,2,Yes,Yes,$0
 24,9,2,1,Yes,Yes,$51-$75
 35,0,2,1,No,Maybe,$5-$20
 15,0,1,1,No,Yes,$5-$20
+
