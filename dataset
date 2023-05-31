@@ -120,7 +120,7 @@
 24,6,2,2,Yes,Yes,$21-$30
 35,3,2,1,Yes,Yes,$76-$99
 15,3,2,2,Yes,Yes,$31-$50
-8-12,10,Never,5+ times a year,A little bit,No,$100+
+10,10,Never,5+ times a year,A little bit,No,$100+
 60,0,Sometimes,Never,No,Yes,$0
 35,10,2,3,No,Maybe,$76-$99
 45,10,3-5 times a week,1,No,Yes,$5-$20
@@ -172,15 +172,15 @@
 15,6,2,2,Yes,Yes,$100+
 15,0,1,1,A little bit,Yes,$21-$30
 35,9,2,2,Maybe,Yes,$76-$99
-8-12,6,2,1,Yes,Yes,$5-$20
+10,6,2,1,Yes,Yes,$5-$20
 45,9,1,Never,A little bit,Yes,$51-$75
 15,0,1,1,A little bit,Yes,$31-$50
 45,3,1,2,No,Yes,$100+
 45,3,2,1,Yes,Yes,$21-$30
 45,3,2,1,No,Yes,$100+
 24,0,1,1,No,Yes,$51-$75
-8-12,0,1,2,No,Maybe,$31-$50
-8-12,10,Never,5+ times a year,Yes,Yes,$5-$20
+10,0,1,2,No,Maybe,$31-$50
+10,10,Never,5+ times a year,Yes,Yes,$5-$20
 35,6,2,1,A little bit,Yes,$51-$75
 35,6,2,2,No,Yes,$51-$75
 24,3,2,Never,Yes I am always anxious to find out if I have more cavities,Yes,$76-$99
@@ -304,4 +304,3 @@
 24,9,2,1,Yes,Yes,$51-$75
 35,0,2,1,No,Maybe,$5-$20
 15,0,1,1,No,Yes,$5-$20
-
