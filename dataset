@@ -9,7 +9,7 @@
 35,3,2,1,No,Yes,$21-$30
 24,6,2,2,Yes,Yes,$76-$99
 24,6,2,2,Yes,Yes,$76-$99
-24,3,2,Never,No,Yes,$51-$75
+24,3,2,0,No,Yes,$51-$75
 24,3,2,2,No,Yes,$51-$75
 15,0,2,1,Yes,Yes,$31-$50
 24,0,2,1,Maybe,Yes,$76-$99
@@ -25,12 +25,12 @@
 35,3,2,1,No,Yes,$21-$30
 24,6,2,2,Yes,Yes,$76-$99
 24,6,2,2,Yes,Yes,$76-$99
-24,3,2,Never,No,Yes,$51-$75
+24,3,2,0,No,Yes,$51-$75
 24,3,2,2,No,Yes,$51-$75
 15,0,2,1,Yes,Yes,$31-$50
 24,0,2,1,Maybe,Yes,$76-$99
 24,0,1,1,Maybe,Yes,$76-$99
-55,6,1,Never,A little bit,Yes,$51-$75
+55,6,1,0,A little bit,Yes,$51-$75
 24,0,1,1,Maybe,Maybe,$5-$20
 35,6,2,2,Yes,Yes,$51-$75
 24,3,2,1,No,Yes,$21-$30
@@ -54,7 +54,7 @@
 24,3,1,2,Yes,Yes,$31-$50
 24,9,2,1,Yes,Yes,$31-$50
 24,3,2,2,No,Yes,$51-$75
-35,3,0.25,Never,Yes,Yes,$100+
+35,3,0.25,0,Yes,Yes,$100+
 24,6,2,2,Maybe,Yes,$31-$50
 24,3,2,1,A little bit,Maybe,$5-$20
 45,10,2,2,No,Yes,$5-$20
@@ -75,14 +75,14 @@
 24,6,2,1,No,Yes,$51-$75
 24,6,2,1,Yes,Yes,$100+
 24,0,2,1,Yes,Yes,$21-$30
-24,0,1,Never,No,Maybe,$51-$75
+24,0,1,0,No,Maybe,$51-$75
 24,10,2,3,Yes,Maybe,$5-$20
 24,10,1,2,Yes,Maybe,$21-$30
 24,6,1,1,A little bit,Yes,$51-$75
 24,0,2,5+ times a year,No,Maybe,$21-$30
 15,0,2,2,No,Maybe,$5-$20
-24,6,2,Never,Yes,Yes,$5-$20
-24,3,2,Never,Yes,Yes,$21-$30
+24,6,2,0,Yes,Yes,$5-$20
+24,3,2,0,Yes,Yes,$21-$30
 24,3,2,1,Yes,Yes,$76-$99
 24,3,2,1,No,Yes,$31-$50
 24,3,2,1,Yes,Yes,$31-$50
@@ -91,7 +91,7 @@
 24,3,2,1,Yes,No,$51-$75
 55,9,2,2,No,Maybe,$31-$50
 24,6,1,2,Yes,Yes,$5-$20
-24,3,1,Never,A little bit,No,$100+
+24,3,1,0,A little bit,No,$100+
 35,0,1,2,Yes,No,$5-$20
 24,0,2,1,A little bit,Yes,$100+
 24,0,2,1,A little bit,Yes,$100+
@@ -120,8 +120,8 @@
 24,6,2,2,Yes,Yes,$21-$30
 35,3,2,1,Yes,Yes,$76-$99
 15,3,2,2,Yes,Yes,$31-$50
-10,10,Never,5+ times a year,A little bit,No,$100+
-60,0,0.5,Never,No,Yes,$0
+10,10,0,5+ times a year,A little bit,No,$100+
+60,0,0.5,0,No,Yes,$0
 35,10,2,3,No,Maybe,$76-$99
 45,10,0.25,1,No,Yes,$5-$20
 45,10,1,2,A little bit,Maybe,$51-$75
@@ -167,35 +167,35 @@
 15,3,2,2,Maybe,Yes,$31-$50
 0,9,2,2,Yes,Yes,$0
 15,3,1,1,A little bit,Yes,$21-$30
-35,6,2,Never,Yes,Yes,$76-$99
+35,6,2,0,Yes,Yes,$76-$99
 15,6,0.25,2,A little bit,Yes,$51-$75
 15,6,2,2,Yes,Yes,$100+
 15,0,1,1,A little bit,Yes,$21-$30
 35,9,2,2,Maybe,Yes,$76-$99
 10,6,2,1,Yes,Yes,$5-$20
-45,9,1,Never,A little bit,Yes,$51-$75
+45,9,1,0,A little bit,Yes,$51-$75
 15,0,1,1,A little bit,Yes,$31-$50
 45,3,1,2,No,Yes,$100+
 45,3,2,1,Yes,Yes,$21-$30
 45,3,2,1,No,Yes,$100+
 24,0,1,1,No,Yes,$51-$75
 10,0,1,2,No,Maybe,$31-$50
-10,10,Never,5+ times a year,Yes,Yes,$5-$20
+10,10,0,5+ times a year,Yes,Yes,$5-$20
 35,6,2,1,A little bit,Yes,$51-$75
 35,6,2,2,No,Yes,$51-$75
-24,3,2,Never,Yes,Yes,$76-$99
+24,3,2,0,Yes,Yes,$76-$99
 60,10,2,1,Yes,Yes,$76-$99
 45,10,2,1,A little bit,Yes,$51-$75
 45,6,2,1,No,Yes,$76-$99
 35,3,2,1,A little bit,Yes,$100+
-15,0,0.5,Never,A little bit,Yes,$31-$50
+15,0,0.5,0,A little bit,Yes,$31-$50
 55,3,2,2,No,Yes,$51-$75
-45,3,2,Never,Yes,Yes,$100+
+45,3,2,0,Yes,Yes,$100+
 15,6,1,2,Yes,Yes,$21-$30
 35,10,2,2,No,Maybe,$31-$50
 35,9,2,2,Yes,Yes,$76-$99
 55,6,2,2,No,Yes,$51-$75
-45,3,1,Never,A little bit,Yes,$100+
+45,3,1,0,A little bit,Yes,$100+
 15,3,0.5,2,No,Yes,$21-$30
 24,6,2,1,Yes,Yes,$5-$20
 60,3,2,3,A little bit,Yes,$51-$75
@@ -219,15 +219,15 @@
 15,9,2,2,Maybe,Yes,$5-$20
 55,10,0.25,2,Yes,Yes,$100+
 15,9,2,2,Yes,Yes,$31-$50
-15,3,2,Never,Yes,Yes,$21-$30
+15,3,2,0,Yes,Yes,$21-$30
 15,10,0.5,2,Yes,Yes,$76-$99
 15,3,2,1,Yes,Yes,$21-$30
 15,6,2,2,Yes,Yes,$5-$20
-55,9,2,Never,Yes,Yes,$31-$50
-55,9,2,Never,Yes,Maybe,$31-$50
+55,9,2,0,Yes,Yes,$31-$50
+55,9,2,0,Yes,Maybe,$31-$50
 45,10,2,Maybe,Yes,$21-$30
 24,3,2,1,A little bit,Yes,$21-$30
-15,3,2,Never,Yes,Yes,$21-$30
+15,3,2,0,Yes,Yes,$21-$30
 35,3,2,1,Yes,Yes,$31-$50
 55,0,2,1,Yes,$21-$30
 60,10,0.25,2,A little bit,Yes,$100+
@@ -249,7 +249,7 @@
 15,6,2,1,A little bit,Yes,$21-$30
 15,0,2,1,Yes,Yes,$31-$50
 15,6,2,3,Yes,Yes,$76-$99
-15,6,2,Never,Yes,Yes,$51-$75
+15,6,2,0,Yes,Yes,$51-$75
 15,3,2,2,A little bit,Yes,$31-$50
 15,6,2,2,No,Maybe,$21-$30
 15,10,2,2,A little bit,Yes,$21-$30
@@ -257,7 +257,7 @@
 15,3,2,3,A little bit,Yes,$31-$50
 15,6,2,2,Yes,Yes,$21-$30
 15,9,1,2,No,Yes,$31-$50
-15,3,0.25,Never,Yes,Yes,$5-$20
+15,3,0.25,0,Yes,Yes,$5-$20
 15,9,2,1,Yes,Yes,$0
 15,10,1,1,Yes,Yes,$51-$75
 15,3,0.5,1,Yes,Yes,$21-$30
